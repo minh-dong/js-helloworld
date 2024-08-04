@@ -1,2 +1,2 @@
 # js-helloworld
- JavaScript Hello World
+A simple learning experience on how to create Hello World using JavaScript.
